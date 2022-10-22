@@ -1,0 +1,14 @@
+   0 vi /tmp/file.txt
+   1 df -h | head -3 > /tmp/file.txt 
+   2 chmod 321 /tmp/file.txt 
+   3 history > /home/lesson4.txt
+   4 export_file /home/lesson4.txt 
+   5 export VAR=33
+   6 echo $VAR >> /tmp/file.txt 
+   7 nano /tmp/file.txt 
+   8 history > /home/lesson4_socond
+   9 export_file /home/lesson4_second
+  10 history > /home/lesson4_socond.txt
+  11 export_file /home/lesson4_second.txt
+  12 export_file /home/lesson4_socond
+  13 history > /home/lesson4_second.txt
